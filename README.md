@@ -28,6 +28,8 @@ Sua paleta de cores é refina e com excelente senso de estilo tornando extremame
 
 - Excluir Notas criadas.
 
+- Botão para fazer Logout da Aplicação.
+
  # 🐱 Code Versioning
 - Git
 - Github
@@ -78,7 +80,7 @@ After starting the project, open a web browser and access the local address indi
 This project is hosted on Netlify.
 Netlify is a platform for hosting and deploying websites, offering a range of features such as hosting and managing frontend projects. It provides continuous deployment, which means you can connect your Git repository to Netlify. When you push to the repository, Netlify automatically detects the changes and deploys a new version of your frontend automatically.
 
-[![deploy](https://img.shields.io/badge/deploy-00BFFF?style=for-the-badge&logo=cloud&logoColor=white)](https://rocketfood2023.netlify.app)
+[![deploy](https://img.shields.io/badge/deploy-00BFFF?style=for-the-badge&logo=cloud&logoColor=white)](https://notesbyme.netlify.app)
 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-adler-ewertoncoelho1000)
@@ -87,7 +89,7 @@ Netlify is a platform for hosting and deploying websites, offering a range of fe
 Here are just a few of the pages of this Application.
 
 - SingIn
-![signin](https://github.com/LaraAEC/api_foodExplorer/assets/91379960/7d48f1e9-6151-4aa3-8bab-d9f69b45a15c)
+![signIn](https://github.com/LaraAEC/rocketNotes_page/assets/91379960/884d451d-0bdf-404b-80ca-16b17cb57d58)
 
 - Home screen
 ![home1](https://github.com/LaraAEC/api_foodExplorer/assets/91379960/82efd1e5-1114-4527-b955-af6bfda85ca9)
