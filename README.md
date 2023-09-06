@@ -97,7 +97,8 @@ Here are just a few of the pages of this Application.
 ![signUp](https://github.com/LaraAEC/rocketNotes_page/assets/91379960/f7f2e989-5b2b-48be-804b-dc2a40d64dc7)
 
 - Profile Screen
-![profile](https://github.com/LaraAEC/rocketNotes_page/assets/91379960/73d3ac5d-0d92-4678-b849-9325c3134369)
+![profile](https://github.com/LaraAEC/rocketNotes_page/assets/91379960/d8a5f690-cf62-4f7c-bf89-9dd1925e54ec)
+
 
 - Home screen
 ![home](https://github.com/LaraAEC/rocketNotes_page/assets/91379960/93f40e8a-5f1d-4761-b55d-ad549d0ecaa4)
