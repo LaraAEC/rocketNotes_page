@@ -1,34 +1,36 @@
 # ![notes](https://cdn-icons-png.flaticon.com/128/1355/1355663.png)RocketNotes
-Um aplicativo de fácil usabilidade e bastante útil para o dia a dia de qualquer pessoa e/ou profissional. Com ele o usuário acessa de modo rápido suas Notas contendo links importantes que deseja-se usar em sua rotina. 
-Sua finalidade consiste em deixar registrado todos os links favoritos do usuário, de modo que ao acessar a aplicação com seu login e senha, seja mostrado para o usuário uma lista de Notas contendo seu título (assunto) e tags correspondentes. Podendo-se clicar nessas Notas e ter acesso à sua descrição completa e links guardados.
-As tags são para facilitar a busca das Notas cadastradas através das tags.  Podendo ocorrer busca também pelo título. 
-Este aplicativo de frontend está repleto de páginas cuidadosamente elaboradas para consumir a API de backend, lidando eficientemente com todas as transações do Protocolo HTTP, enviando solicitações, recebendo respostas e renderizando essas respostas na interface.
-Sua paleta de cores é refina e com excelente senso de estilo tornando extremamente agradável ao usuário acessar essa Aplicação de Notas em sua rotina.
+An easy-to-use and highly useful application for the daily life of anyone and/or professional. With it, the user can quickly access their Notes containing important links they want to use in their routine.
+Its purpose is to record all the user's favorite links so that when they access the application with their login and password, a list of Notes containing their title (subject) and corresponding tags is shown to the user. They can click on these Notes and access their complete description and saved links.
+Tags are used to facilitate the search for registered Notes through tags. Searches can also be done by title.
+This frontend application is full of carefully crafted pages to consume the backend API, efficiently handling all HTTP Protocol transactions, sending requests, receiving responses, and rendering these responses in the interface.
+Its color palette is refined with an excellent sense of style, making it extremely pleasant for users to access this Notes Application in their routine.
 
-- Autenticação de usuário.
-- Dados no formato JSON.
-- Upload de imagem/foto.
-- Rotas claras.
-- Autenticação e autorização por meio de formulários.
-- Suporte para solicitações HTTP: GET, POST, PUT, PATCH e DELETE.
+- User authentication.
+- Data in JSON format.
+- Image/photo upload.
+- Clear routes.
+- Authentication and authorization through forms.
+- Support for HTTP requests: GET, POST, PUT, PATCH, and DELETE.
 
-# 🎯 Functionalities 
-### User's Responsibilities
-- Cadastrar-se na Aplicação informando nome, email e senha.
+# 🎯 Functionalities
+### User's Attributes
+- Register in the Application by providing name, email, and password.
 
-- Fazer login na Aplicação com email e senha cadastrados.
+- Log in to the Application with the registered email and password.
 
-- Atualizar seu perfil, modificando os seus dados informados no cadastro, bem como fazer upload de sua foto de perfil.
+- Update their profile by modifying the information provided during registration, as well as upload their profile picture.
 
-- Cadastrar Notas com título, descrição do assunto, inserção de links úteis a serem guardados e tags para fácil localização.
+- Create Notes with a title, subject description, insertion of useful links to be saved, and tags for easy location.
 
-- Pesquisar, por meio do título ou de tag, a Nota desejada.
+- Search for the desired Note using the title or tag.
 
-- Clicar na Nota e ter acesso às suas informações: Título e descrição completa da Nota, links úteis sobre aquele tema, e seus marcadores/tags de facilitação de busca.
+- Possibility of cumulating filters (one tag, more than one tag, all tags).
 
-- Excluir Notas criadas.
+- Click on the Note and access its information: Title and complete description of the Note, useful links on that topic, and search facilitation markers/tags.
 
-- Botão para fazer Logout da Aplicação.
+- Delete created Notes.
+
+- Logout button from the Application.
 
  # 🐱 Code Versioning
 - Git
@@ -91,29 +93,24 @@ Here are just a few of the pages of this Application.
 - SingIn
 ![signIn](https://github.com/LaraAEC/rocketNotes_page/assets/91379960/884d451d-0bdf-404b-80ca-16b17cb57d58)
 
+- SingUp
+![signUp](https://github.com/LaraAEC/rocketNotes_page/assets/91379960/f7f2e989-5b2b-48be-804b-dc2a40d64dc7)
+
+- Profile Screen
+![profile](https://github.com/LaraAEC/rocketNotes_page/assets/91379960/73d3ac5d-0d92-4678-b849-9325c3134369)
+
 - Home screen
-![home1](https://github.com/LaraAEC/api_foodExplorer/assets/91379960/82efd1e5-1114-4527-b955-af6bfda85ca9)
-![home2](https://github.com/LaraAEC/api_foodExplorer/assets/91379960/70fcb680-3528-4b6f-98d1-23708df45198)
+![home](https://github.com/LaraAEC/rocketNotes_page/assets/91379960/93f40e8a-5f1d-4761-b55d-ad549d0ecaa4)
 
-- Favorites Screen
-![favorites2](https://github.com/LaraAEC/api_foodExplorer/assets/91379960/b119d421-5a92-4e3a-bf51-f1a1b204f43e)
+- Note Details Screen
+![details](https://github.com/LaraAEC/rocketNotes_page/assets/91379960/0a185af6-a5ba-4464-bdc3-44fd9e10eb2d)
 
-- Favorites Screen
-![favorites](https://github.com/LaraAEC/foodExplorer_page/assets/91379960/b5ff5ab4-dd16-42c0-b914-464a388226db)
+- New Note Screen
+![new](https://github.com/LaraAEC/rocketNotes_page/assets/91379960/51cab2aa-bfc8-44da-81d0-c22d89b32f63)
 
-- "User's 'My Order' Screen"
-![request](https://github.com/LaraAEC/api_foodExplorer/assets/91379960/7c691bb7-74a5-4b1b-95a6-dd0fb4faf3a1)
+![new2](https://github.com/LaraAEC/rocketNotes_page/assets/91379960/35006c95-cea9-49bb-9412-8ce5d78a0c8f)
 
-- Payment Screen
-![payment](https://github.com/LaraAEC/api_foodExplorer/assets/91379960/b489c0df-8112-4947-9c14-bbd31cc5c085)
 
-- Administrator's New Dish Screen
-![newdish](https://github.com/LaraAEC/api_foodExplorer/assets/91379960/9db1a087-f4ec-4c57-8dc3-8f64c0d120d1)
 
-- Administrator's Dish Details Screen
-![admindetails](https://github.com/LaraAEC/api_foodExplorer/assets/91379960/0f39672b-802a-4ccb-b5a5-0d87d535a8cb)
-
-- Order Status Update Screen
-![adminstatus](https://github.com/LaraAEC/api_foodExplorer/assets/91379960/bf642e47-62d1-4ea5-bc6f-7e47f6458b98)
 
 
